@@ -6,8 +6,8 @@ from typing import Optional, Set, Dict
 # Serial configuration
 # For Linux: "/dev/ttyACM0", "/dev/ttyUSB0", etc.
 # For Windows: "COM3", "COM4", etc.
-SERIAL_PORT = "/dev/ttyACM0"
-BAUD_RATE = 115200
+SERIAL_PORT = "/dev/ttyACM0"  # change for your system
+BAUD_RATE = 115200       # change for your system    
 
 # Global variables
 ser: Optional[serial.Serial] = None
