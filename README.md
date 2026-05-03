@@ -113,8 +113,8 @@ This project is provided as-is for warehouse management purposes.
 ## 📸 Project Demo
 
 ### 🔧 Hardware Setup
-![Hardware](Picture1.jpg)
+![Hardware](Picture1.png)
 
 ### 📱 Output
-![Output](Picture2.jpg)
-![Output](Picture3.jpg)
+![Output](Picture2.png)
+![Output](Picture3.png)
