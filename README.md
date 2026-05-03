@@ -110,3 +110,11 @@ The code is structured to easily support three physical scanners:
 
 This project is provided as-is for warehouse management purposes.
 
+## 📸 Project Demo
+
+### 🔧 Hardware Setup
+![Hardware](Picture1.jpg)
+
+### 📱 Output
+![Output](Picture2.jpg)
+![Output](Picture3.jpg)
