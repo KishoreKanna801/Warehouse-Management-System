@@ -122,3 +122,6 @@ This project is provided as-is for warehouse management purposes.
 ### 📱 Output
 ![Output](Picture2.png)
 ![Output](Picture3.png)
+
+## Author
+**Kishore Kanna**
