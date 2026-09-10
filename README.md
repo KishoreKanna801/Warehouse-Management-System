@@ -16,6 +16,10 @@ A Python program that simulates an RFID warehouse system with 3 scanners (ENTRY,
 - pyserial library
 - RFID scanner connected via serial port
 
+## Internship Certificate
+
+[View Internship Certificate](internship%20IVW.pdf)
+
 ## Installation
 
 1. Install dependencies:
